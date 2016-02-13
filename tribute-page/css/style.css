@@ -1,0 +1,16 @@
+.box
+{
+  border-style:hidden;
+  background-color:#d9d9d9; 
+}
+body{
+  background-color:white;
+}
+h1,h2,h3,q,p{
+  text-align:center;
+}
+.display{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
